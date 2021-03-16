@@ -38,7 +38,7 @@
 ---
 
 ## RedEnvelope Poject Source
-### edEnvelope 의미
+### RedEnvelope 의미
 중국에서는 특별한 날이면 실물로 세뱃돈, 축의금, 보너스, 용돈 등을 주고 받는 특별한 문화가 있다. 이것을 홍빠오(红包)라고 한다. 영어로 Red Envelope이다.
 
 
