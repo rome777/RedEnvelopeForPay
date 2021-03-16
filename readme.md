@@ -1,6 +1,6 @@
 # RedEnvelope 핵심 문제해결 전략
 
-##개발 환경
+## 개발 환경
 - IDE: JetBrains IntelliJ IDEA 2020.3.2
 - Database: Oracle 12c
 - Programming Language: Java 1.8
@@ -9,7 +9,7 @@
 
 ---
 
-##DB Table 구조
+## DB Table 구조
 1.	Origin (Token 단위, 뿌릴 금액 현황)  
       1.1.	Token (PK)  
       1.2.	보낸 시각  
@@ -37,12 +37,12 @@
 
 ---
 
-##RedEnvelope Poject Source
-###RedEnvelope 의미
+## RedEnvelope Poject Source
+### edEnvelope 의미
 중국에서는 특별한 날이면 실물로 세뱃돈, 축의금, 보너스, 용돈 등을 주고 받는 특별한 문화가 있다. 이것을 홍빠오(红包)라고 한다. 영어로 Red Envelope이다.
 
 
-###RedEnvelope Project 구조
+### RedEnvelope Project 구조
 - src
     - main
         - java
@@ -94,7 +94,7 @@
 
 ---
 
-##특이사항
+## 특이사항
 - Test 시, JPA에 의해 DB Schema 자동 생성
 - DB Data 변경 이력 기능 존재
     - 이력 확인 및 Tracking 용이
