@@ -131,7 +131,7 @@ public class ApiControllerTest
         rcvSvc.verifyToken(token);
     }
 
-//    @Test
+    @Test
     @DisplayName("뿌린 건은 10분간만 유효합니다. 뿌린지 10분이 지난 요청에 대해서는 받기 실패 응답이 내려가야 합니다.")
     public void test007() throws Exception
     {
@@ -243,7 +243,7 @@ public class ApiControllerTest
         viewSvc.verifyToken(weirdToken);
     }
 
-//    @Test
+    @Test
     @DisplayName("뿌린 건에 대한 조회는 7일 동안 할 수 있습니다.")
     public void test014() throws Exception
     {
